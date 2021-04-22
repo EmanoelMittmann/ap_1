@@ -1,0 +1,7 @@
+C:\Users\emano\OneDrive\Documentos\ulbra\ap_1> git init
+
+C:\Users\emano\OneDrive\Documentos\ulbra\ap_1>git add ap1_2.txt
+
+C:\Users\emano\OneDrive\Documentos\ulbra\ap_1>git commit -m "prova2"
+
+C:\Users\emano\OneDrive\Documentos\ulbra\ap_1>git push
