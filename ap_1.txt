@@ -4,6 +4,6 @@ git commit -m "mensagem"
 git remote add
 git push --set -upstream origin master
 
-novas alteraçoes para exercicios
 
+novas alteraçoes para exercicios
 vamos denovo
