@@ -4,6 +4,14 @@ git commit -m "mensagem"
 git remote add
 git push --set -upstream origin master
 
-
 novas alteraçoes para exercicios
+
 vamos denovo
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Ut commodo magna urna. Ut nisl mi, laoreet eu convallis nec, congue in quam. 
+Morbi vitae tellus tempus, mollis est sed, ultricies ipsum.
+ Cras erat nisi, tincidunt et maximus eget, faucibus eget nisl. 
+Proin hendrerit suscipit tellus a iaculis.
+ Donec quis sapien id enim convallis viverra sed in orci. 
+Cras semper dapibus diam, in sodales elit dignissim vitae.
+ Nulla pellentesque scelerisque elit. 
